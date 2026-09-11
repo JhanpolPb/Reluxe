@@ -4,5 +4,6 @@ Aplicativo para lavaderos
 - Stack: Java, springboot
 - Arquitectura: microservicios
 - Agentes Ia
+- Database
 # Autor
 Jhanpol Parra Barreto
